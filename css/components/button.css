@@ -1,0 +1,17 @@
+.btn-blue{
+  background-color: red;
+        color: white;
+        padding: 10px 20px ;
+        border-radius: 4px;
+        font-family: 'Gudea', sans-serif;
+        margin-bottom: 0px;
+}
+
+.btn-blue:hover{
+        background-color: lightgray;
+        color: white;
+        padding: 15px 25px;
+}
+
+
+
